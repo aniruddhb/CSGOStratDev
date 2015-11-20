@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CSApp</string>
+    <string name="facebook_app_id">909983559039223</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_user_draw">UserDraw</string>
+</resources>
